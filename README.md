@@ -5,5 +5,14 @@ Here is the code installing testing in Windows 11.
 
 * **Downloading the codes**
 ```
-git clone https://github.com/CROBOT975/HSR_RL-environment.git
+git clone https://github.com/CROBOT974/Development-of-Trajectory-Based-Control-of-Supernumerary-Robotic-Limbs-for-Assembling-Tasks.git
+```
+* **Installing the required packages**
+The inverse kinematics function is relied on [IKPY](https://github.com/Phylliade/ikpy), and the [fcl-python](https://github.com/BerkeleyAutomation/python-fcl/tree/master) library is referred for coolision detection. 
+```
+pip install numpy
+pip install scipy
+pip install mujoco-viewer
+pip install ikpy
+pip install python-fcl
 ```
