@@ -30,5 +30,16 @@ graph2: Comparing the desired and real joint angles.
 python -m tests.graph.graph1
 python -m tests.graph.graph2
 ```
+## Result
+
+* **demo of the scenario**
+[Demo](https://youtube.com/shorts/IFuw9-X2uf0?feature=share)
+
+* **Trajectory in Cartesain Space**
+![result2_2](https://github.com/user-attachments/assets/2a1de80d-a933-4b99-aba5-d6e8af96fff1)
+
+* **Joint Angles**
+![result3_1](https://github.com/user-attachments/assets/3a4da374-c752-4a05-8f25-b7b0b96e8b04)
+
 
 
