@@ -40,6 +40,12 @@ python -m tests.graph.graph2
 
 * **Joint Angles**
 ![result3_1](https://github.com/user-attachments/assets/3a4da374-c752-4a05-8f25-b7b0b96e8b04)
+![result3_2](https://github.com/user-attachments/assets/48a5910c-fb24-42af-aced-451fd3249a71)
+![result3_3](https://github.com/user-attachments/assets/5011fc3b-86db-4e74-9ee9-01db9b3fcabd)
+![result3_4](https://github.com/user-attachments/assets/0f8bbb84-97f8-4a60-9bb4-a16f1d6747b6)
+![result3_5](https://github.com/user-attachments/assets/673914f8-f5f5-4a19-8504-7a8079dc7d76)
+![result3_6](https://github.com/user-attachments/assets/7e2359c5-98ab-4c18-9d66-8b8c94c12682)
+![result3_7](https://github.com/user-attachments/assets/40610326-0e10-46cb-84aa-061bc7b3ad37)
 
 
 
