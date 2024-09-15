@@ -1,0 +1,30 @@
+Mon Apr  8 20:14:40 2024
+WARNING: mju_openResource: unknown file '../../src/assets/universal_robots_ur5e/scene.xml'
+
+Mon Apr  8 21:20:15 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 0.2380.
+
+Mon Apr  8 21:31:22 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 1. The simulation is unstable. Time = 1.5120.
+
+Mon Apr  8 23:13:11 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.2640.
+
+Sun Jul 21 22:07:25 2024
+WARNING: Nan, Inf or huge value in CTRL at ACTUATOR 0. The simulation is unstable. Time = 0.0280.
+
+Mon Jul 22 09:29:29 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 10.7800.
+
+Mon Jul 22 09:34:04 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 4. The simulation is unstable. Time = 0.4600.
+
+Mon Jul 22 09:37:03 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.3460.
+
+Wed Jul 24 13:22:37 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 0. The simulation is unstable. Time = 0.0500.
+
+Fri Aug  9 12:19:45 2024
+WARNING: Nan, Inf or huge value in QACC at DOF 36. The simulation is unstable. Time = 39.4850.
+
