@@ -1,5 +1,6 @@
 # Development of Trajectory Based Control of Supernumerary Robotic Limbs for Assembling Tasks
-In this project, a control strategy of Supernumerary Robot Limbs (SRLs) based on trajectory generating is developed for an assembling task.This method is autonomous and could achieve high efficiency without the prerequisite of demonstration data or complex physical models.
+In this project, a control strategy of Supernumerary Robot Limbs (SRLs) based on trajectory generating is developed for an assembling task.This method is autonomous and could achieve high efficiency without the prerequisite of demonstration data or complex physical models. It utilized a improved RRT-Connect method for trajectory planning, and tracing the hand to accomplish human-robot coorperation.
+
 ## Install
 Here is the code installing testing in Windows 11.
 
@@ -33,9 +34,19 @@ python -m tests.graph.graph2
 ## Result
 
 * **demo of the scenario**
+
 [Demo](https://youtube.com/shorts/IFuw9-X2uf0?feature=share)
 
-* **Trajectory in Cartesain Space**
+* **Improved RRT-Connect (Compared to original RRT-Connect)**
+
+original RRT-Connect
+![Figure arm2](https://github.com/user-attachments/assets/6ed6fd0e-cb83-4843-b888-f402ee83af7e)
+
+improved RRT-Connect
+![Figure arm](https://github.com/user-attachments/assets/38d92fcc-a4ad-48d4-b6fb-85135a5a790f)
+
+
+* **Trajectory Tracing in Cartesain Space**
 ![result2_2](https://github.com/user-attachments/assets/2a1de80d-a933-4b99-aba5-d6e8af96fff1)
 
 * **Joint Angles**
