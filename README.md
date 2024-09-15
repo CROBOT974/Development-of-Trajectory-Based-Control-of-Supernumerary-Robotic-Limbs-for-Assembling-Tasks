@@ -16,11 +16,13 @@ pip install mujoco-viewer
 pip install ikpy
 pip install python-fcl
 ```
+## Run a demo
 * **Test the whole senario**
 ```
 python -m tests.main
 ```
 * **Check the Graph**
+
 graph1: Comparing the trajectory of between the human hand and robot gripper.
 graph2: Comparing the desired and real joint angles.
 ```
