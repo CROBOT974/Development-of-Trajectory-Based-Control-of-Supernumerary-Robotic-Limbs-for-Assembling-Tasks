@@ -8,7 +8,7 @@ Here is the code installing testing in Windows 11.
 git clone https://github.com/CROBOT974/Development-of-Trajectory-Based-Control-of-Supernumerary-Robotic-Limbs-for-Assembling-Tasks.git
 ```
 * **Installing the required packages**
-The inverse kinematics function is relied on [IKPY](https://github.com/Phylliade/ikpy), and the [fcl-python](https://github.com/BerkeleyAutomation/python-fcl/tree/master) library is referred for coolision detection. 
+The inverse kinematics function is relied on [ikpy](https://github.com/Phylliade/ikpy), and the [fcl-python](https://github.com/BerkeleyAutomation/python-fcl/tree/master) library is referred for coolision detection. 
 ```
 pip install numpy
 pip install scipy
@@ -16,3 +16,16 @@ pip install mujoco-viewer
 pip install ikpy
 pip install python-fcl
 ```
+* **Test the whole senario**
+```
+python -m tests.main
+```
+* **Check the Graph**
+graph1: Comparing the trajectory of between the human hand and robot gripper.
+graph2: Comparing the desired and real joint angles.
+```
+python -m tests.graph.graph1
+python -m tests.graph.graph2
+```
+
+
