@@ -14,7 +14,7 @@ The inverse kinematics function is relied on [ikpy](https://github.com/Phylliade
 ```
 pip install numpy
 pip install scipy
-pip install mujoco-viewer
+pip install mujoco
 pip install ikpy
 pip install python-fcl
 ```
