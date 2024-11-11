@@ -33,7 +33,7 @@ python -m tests.graph.graph2
 ```
 ## Result
 
-* **report pdf file**
+* **Technical Report**
 
 [View the PDF](https://github.com/CROBOT974/Development-of-Trajectory-Based-Control-of-Supernumerary-Robotic-Limbs-for-Assembling-Tasks/tree/main/report/Report.pdf)
 
