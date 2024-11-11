@@ -33,6 +33,9 @@ python -m tests.graph.graph2
 ```
 ## Result
 
+* **report pdf file**
+[View the PDF](./report/Report.pdf)
+
 * **demo of the scenario**
 
 [Demo](https://youtube.com/shorts/IFuw9-X2uf0?feature=share)
