@@ -35,7 +35,7 @@ python -m tests.graph.graph2
 
 * **report pdf file**
 
-[View the PDF](https://github.com/CROBOT974/Development-of-Trajectory-Based-Control-of-Supernumerary-Robotic-Limbs-for-Assembling-Tasks/report/Report.pdf)
+[View the PDF](https://github.com/CROBOT974/Development-of-Trajectory-Based-Control-of-Supernumerary-Robotic-Limbs-for-Assembling-Tasks/tree/main/report/Report.pdf)
 
 * **demo of the scenario**
 
