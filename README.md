@@ -17,6 +17,7 @@ pip install scipy
 pip install mujoco
 pip install ikpy
 pip install python-fcl
+pip install matplotlib
 ```
 ## Run a demo
 * **Test the whole senario**
