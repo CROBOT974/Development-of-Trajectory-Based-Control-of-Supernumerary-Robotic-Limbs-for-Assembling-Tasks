@@ -1,8 +1,8 @@
 # Development of Trajectory-Based Control of Supernumerary Robotic Limbs for Assembling Tasks
-In this project, a control strategy of Supernumerary Robot Limbs (SRLs) based on trajectory generating is developed for an assembling task.This method is autonomous and could achieve high efficiency without the prerequisite of demonstration data or complex physical models. It utilized a improved RRT-Connect method for trajectory planning, and tracing the hand to accomplish human-robot coorperation.
+In this project, a control strategy of Supernumerary Robot Limbs (SRLs) based on trajectory generating is developed for an assembling task. This method is autonomous and could achieve high efficiency without the prerequisite of demonstration data or complex physical models. It utilized an improved RRT-Connect method for trajectory planning, and tracing the hand to accomplish human-robot coorperation.
 
 ## Install
-Here is the code installing testing in Windows 11.
+Here is the code for installing testing in Windows 11.
 
 * **Downloading the codes**
 ```
@@ -10,7 +10,7 @@ git clone https://github.com/CROBOT974/Development-of-Trajectory-Based-Control-o
 ```
 * **Installing the required packages**
 
-The inverse kinematics function is relied on [ikpy](https://github.com/Phylliade/ikpy), and the [fcl-python](https://github.com/BerkeleyAutomation/python-fcl/tree/master) library is referred for coolision detection. 
+The inverse kinematics function relies on [ikpy](https://github.com/Phylliade/ikpy), and the [fcl-python](https://github.com/BerkeleyAutomation/python-fcl/tree/master) library is referred for collision detection. 
 ```
 pip install numpy==1.26.4
 pip install scipy
@@ -20,14 +20,14 @@ pip install python-fcl
 pip install matplotlib
 ```
 ## Run a demo
-* **Test the whole senario**
+* **Test the whole scenario**
 ```
 python -m tests.main
 ```
 * **Check the Graph**
 
-graph1: Comparing the trajectory of between the human hand and robot gripper.
-graph2: Comparing the desired and real joint angles.
+Graph 1: Comparing the trajectory between the human hand and the robot gripper.
+Graph 2: Comparing the desired and real joint angles.
 ```
 python -m tests.graph.graph1
 python -m tests.graph.graph2
@@ -51,7 +51,7 @@ improved RRT-Connect
 ![Figure arm](https://github.com/user-attachments/assets/38d92fcc-a4ad-48d4-b6fb-85135a5a790f)
 
 
-* **Trajectory Tracing in Cartesain Space**
+* **Trajectory Tracing in Cartesian Space**
 ![result2_2](https://github.com/user-attachments/assets/2a1de80d-a933-4b99-aba5-d6e8af96fff1)
 
 * **Joint Angles**
