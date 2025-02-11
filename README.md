@@ -20,9 +20,13 @@ pip install python-fcl
 pip install matplotlib
 ```
 ## Run a demo
-* **Test the whole scenario**
+* **Test the whole scenario with a PID controller**
 ```
 python -m tests.main
+```
+* **Test the whole scenario with an impedance controller**
+```
+python -m tests.main2
 ```
 * **Check the Graph**
 
